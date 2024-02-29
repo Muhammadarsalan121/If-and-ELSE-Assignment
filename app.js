@@ -76,3 +76,39 @@
 // else{
 //     console.log("Next day started")
 // }
+
+
+
+    //   NUMBER6
+// var password = "Arsalanshahid";
+// var password = prompt("Please enter your password");
+// if(password == "arsalanshahid"){
+//     console.log("Correct! The password you entered matches the original password");
+// }
+// else{
+//     console.log("Incorrect password");
+// }
+
+
+            // NUMBER7
+// var firstName = "Ali";
+// if (firstName === 'Fahad'){
+//     document.write('Hello Fahad!')
+// }
+// else{
+//     document.write("You are not Fahad!")
+// }
+
+
+
+
+
+        //    NUMBER8
+// var hour = 13;
+// var hour = +prompt("Enter the time");
+// if(hour > 18){
+//     console.log("Good Day!")
+// }
+// else{
+//     console.log("Good Evening!")
+// }
