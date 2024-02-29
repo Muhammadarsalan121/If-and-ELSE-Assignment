@@ -112,3 +112,21 @@
 // else{
 //     console.log("Good Evening!")
 // }
+
+
+
+
+
+
+        //  NUMBER9
+
+// var number = +prompt("Please Enter numbers")
+// if(number == --number){
+//     console.log("Number is negative")
+// }
+// else if(number == +number){
+//     console.log("Number is positive")
+// }
+// else{
+//     console.log("Zero")
+// }
